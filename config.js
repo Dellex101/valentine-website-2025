@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Cảm ơn Em đã chọn Anh làm người yêu em 🎉💝💖💝💓",
-        message: "Lại đây anh ôm và thơm em nhiều cái nèo hehehee",
+        message: "Lại đây anh ôm và thơm em nhiều cái nèo. I love youuu",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
