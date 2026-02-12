@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Em nhận lời đi chơi valentine với anh nhoá? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Em đi chơi valentine với anh nhé? 🌹", // The big question!
+            text: "Em đi chơi valentine với anh nhoáa? 🌹", // The big question!
             yesBtn: "Có!",                                             // Text for "Yes" button
             noBtn: "Không"                                                 // Text for "No" button
         }
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "Quáo nhiều dữ dậyyy? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "Quá nhiều ròi đoá! 🚀💝",              // Shows when they go past 1000%
+        normal: "nhiều đoá! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Anh mong em sẽ rất vui nhoá 🎉💝💖💝💓",
+        message: "Lại đây anh ôm em cái nèo hehehee",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
