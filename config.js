@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Em có thích anh không?",                                    // First interaction
             yesBtn: "Có",                                             // Text for "Yes" button
             noBtn: "Không",                                               // Text for "No" button
-            secretAnswer: "Em không thích anh, Em yêu anh cơ! ❤️"           // Secret hover message
+            secretAnswer: "Em không thích anh, Em yêu Anh! ❤️"           // Secret hover message
         },
         second: {
             text: "Em yêu anh đến nhường nào?",                          // For the love meter
