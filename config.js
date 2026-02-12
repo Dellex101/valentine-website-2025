@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Ny xinh đẹp <3",
+    valentineName: "Ny xinh đẹp ❤️",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Anh mong em sẽ rất vui nhoá 🎉💝💖💝💓",
-        message: "Lại đây anh ôm em cái nèo hehehee",
+        title: "Cảm ơn Em đã chọn Anh làm người yêu em 🎉💝💖💝💓",
+        message: "Lại đây anh ôm và thơm em nhiều cái nèo hehehee",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
